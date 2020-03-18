@@ -8,6 +8,7 @@ Zwei Seiten waren bisher besonders interessant:
 
 * [Stand der Testungen und Fälle](https://www.sozialministerium.at/Informationen-zum-Coronavirus/Neuartiges-Coronavirus-(2019-nCov).html)
 * [Coronavirus - Häufig gestellte Fragen](https://www.sozialministerium.at/Informationen-zum-Coronavirus/Coronavirus---Haeufig-gestellte-Fragen.html)
+* [Coronavirus - Grafische Aufarbeitung](https://coronavirus.datenfakten.at/)
 
 Das Problem ist, dass sich die Information regelmäßig ändert
 
